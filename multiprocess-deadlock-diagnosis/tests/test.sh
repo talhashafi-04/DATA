@@ -7,8 +7,6 @@ fi
 
 mkdir -p /logs/verifier
 
-bash /solution/solve.sh
-
 python3 -m pytest /tests/test_state.py -v --tb=short
 
 if [ $? -eq 0 ]; then
