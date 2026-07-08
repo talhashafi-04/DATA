@@ -1,0 +1,4 @@
+Begin by proving which pointer class diverges before editing fields.
+
+The primitive list and text code should decode labels cleanly when reached from the right pointer slot.
+The stream uses nested structs, composite lists, text fields, and empty-list cases, so compare pointer targets against the visible schema notes before choosing a repair.

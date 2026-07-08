@@ -1,0 +1,13 @@
+.git
+.pytest_cache
+__pycache__
+*.pyc
+*.pyo
+*.o
+*.so
+*.log
+ctrf.json
+reward.txt
+reward.json
+coverage
+.coverage

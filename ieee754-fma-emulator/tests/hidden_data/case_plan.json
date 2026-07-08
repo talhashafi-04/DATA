@@ -1,0 +1,16 @@
+{
+  "subnormal_product": 60,
+  "finite": 40,
+  "nan_propagation": 20,
+  "signed_zero": 20,
+  "infinity": 20,
+  "cancellation": 20,
+  "tie_breaking": 20,
+  "quad_precision_trap": 56,
+  "overflow_underflow_boundary": 60,
+  "deep_residue_trap": 44,
+  "exact_zero_cancellation": 56,
+  "subnormal_final_boundary": 56,
+  "overflow_rescue_boundary": 56,
+  "special_value_matrix": 72
+}

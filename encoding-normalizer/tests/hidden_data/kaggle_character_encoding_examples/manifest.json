@@ -1,0 +1,40 @@
+{
+  "dataset": "rtatman/character-encoding-examples",
+  "files": [
+    {
+      "path": "die_ISO-8859-1.txt",
+      "byte_length": 83418,
+      "sha256": "5e93488cd2494e7f7ab02dfd0604537d2617c6c249c63ca36fe24bf5e5c243a3"
+    },
+    {
+      "path": "file_guide.csv",
+      "byte_length": 549,
+      "sha256": "8b7bf5d3e0cb646c30cc9fe0a7659cdbe4cae94d5ca9df824ee1d05affa24127"
+    },
+    {
+      "path": "harpers_ASCII.txt",
+      "byte_length": 173439,
+      "sha256": "bcc3db31d9a7f8c201fe81ed6300626c0c74bf61260d556548c1f77f57b520ac"
+    },
+    {
+      "path": "olaf_Windows-1251.txt",
+      "byte_length": 29512,
+      "sha256": "24fa027620ad036d0739e2aacfc382219476046494383eb83940665a68c6237d"
+    },
+    {
+      "path": "portugal_ISO-8859-1.txt",
+      "byte_length": 93567,
+      "sha256": "daa294a49998021280e9d65e6f57765a5d2a4bc75d81418415358882c581f1c1"
+    },
+    {
+      "path": "shisei_UTF-8.txt",
+      "byte_length": 564876,
+      "sha256": "11d71d105b51ca9d110d8861578c1b9cc5c7efd74685cfd1944ec756a397730f"
+    },
+    {
+      "path": "yan_BIG-5.txt",
+      "byte_length": 24785,
+      "sha256": "56a9d75284e0d54481f083d45111bc4856378034958aaca033272c4030c638dd"
+    }
+  ]
+}

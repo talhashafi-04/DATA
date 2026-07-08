@@ -1,0 +1,26 @@
+artifacts = ["/app/softfma.c", "/app/fma_runner.c", "/app/Makefile", "/app/data/cases.json", "/app/reports/fma_triage.txt", "/app/reports/fma_replay_cases.json", "/app/reports/fma_replay_builder.py"]
+
+[metadata]
+category = "Scientific Computing and Domain Science"
+subcategory = "Numerical methods"
+task_objective = ["Fix", "Validate", "Generate"]
+artifact_type = ["Codebase", "Single script or program", "Generated output artifact"]
+expert_time_estimate_hours = 1.5
+model_tested = ""
+agent_tested = ""
+avg_at_5 = 0.0
+
+[agent]
+timeout_sec = 6000.0
+
+[verifier]
+timeout_sec = 1200.0
+environment_mode = "separate"
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
+gpus = 0
+allow_internet = false
